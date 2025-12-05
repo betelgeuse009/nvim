@@ -1,5 +1,4 @@
 require("betelgeuse")
-print("hello")
 
 -- Enable system clipboard
 vim.opt.clipboard = "unnamedplus"

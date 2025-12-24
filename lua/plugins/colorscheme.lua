@@ -1,5 +1,6 @@
 return {
   {
+    { "ellisonleao/gruvbox.nvim" },
     "catppuccin/nvim",
     lazy = true,
     name = "catppuccin",
@@ -54,8 +55,9 @@ return {
 
   {
     "LazyVim/LazyVim",
+    -- change the colorscheme to catppuccin if you want
     opts = {
-      colorscheme = "catppuccin",
+      colorscheme = "gruvbox",
     },
   },
 }

@@ -9,6 +9,7 @@ return {
         "bash",
         "markdown",
         "json",
+        "vala",
       },
     },
   },
